@@ -4,6 +4,6 @@ Motivated by understanding from quantum collapse, this Python code provides simu
 
 - pics/* contains the generated simulations.
 
-- onesDimensionalSpikes.ipynb is a Python notebook focused on one dimensional situations. It echoes [this paper][https://arxiv.org/abs/1810.05629] which deals with the theoretical treatment.
+- onesDimensionalSpikes.ipynb is a Python notebook focused on one dimensional situations. It echoes [the following paper](https://arxiv.org/abs/1810.05629) which deals with the theoretical treatment.
 
 - threeState.ipynb is a Python notebook in progress, for the multimensional setting.
